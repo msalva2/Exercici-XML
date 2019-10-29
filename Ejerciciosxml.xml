@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplicacions>
+    <aplicacio>
+        <nom codi="1">Dragon Ball Dokkan Battle</nom>
+        <descripcio>Joc basat en Dragon Ball</descripcio>
+        <tipus>Joc</tipus>
+        <fabricant>Bandai Namco Entertainment Inc.</fabricant>
+    <aplicacio>
+        <nom codi="2">Pokemon Go</nom>
+        <descripcio>Joc basat en Pokemon</descripcio>
+        <tipus>Joc</tipus>
+        <fabricant>Niantic Inc.</fabricant>
+    <aplicacio>
+        <nom codi="3">Youtube</nom>
+        <descripcio>Plataforma per veure videos</descripcio>
+        <tipus>Video</tipus>
+        <fabricant>Google LLC</fabricant>
+    <aplicacio>
+        <nom codi="4">Mario kart</nom>
+        <descripcio>Joc de carreres de Mario</descripcio>
+        <tipus>Joc</tipus>
+        <fabricant>Nintendo Co. Ltd.</fabricant>
+    <aplicacio>
+        <nom codi="5">Banco Sabadell</nom>
+        <descripcio>App del Banc Sabadell</descripcio>
+        <tipus>Dinero</tipus>
+        <fabricant>Josep Oliu i Creus</fabricant>
+    <aplicacio>
+        <nom codi="6">Discord</nom>
+        <descripcio>App per xerrar en linia</descripcio>
+        <tipus>Veu</tipus>
+        <fabricant>Discord Inc.</fabricant>
+    <aplicacio>
+        <nom codi="7">Facebook</nom>
+        <descripcio>App de missatgeria</descripcio>
+        <tipus>Missatges</tipus>
+        <fabricant>Mark Zuckerberg</fabricant>
+    <aplicacio>
+        <nom codi="8">Archero</nom>
+        <descripcio>Joc de masmorres</descripcio>
+        <tipus>Joc</tipus>
+        <fabricant>Habby</fabricant>
+    <aplicacio>
+        <nom codi="9">HBO</nom>
+        <descripcio>App per veure series i pelis</descripcio>
+        <tipus>video</tipus>
+        <fabricant>Charles Dolan</fabricant>
+    <aplicacio>
+        <nom codi="10">EMT Palma</nom>
+        <descripcio>App horaris bus EMT</descripcio>
+        <tipus>Horaris</tipus>
+        <fabricant>at4.net</fabricant>    
